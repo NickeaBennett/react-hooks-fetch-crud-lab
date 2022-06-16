@@ -67,48 +67,15 @@
       "correctIndex": 1
     },
     {
-      "prompt": "Test",
+      "prompt": "",
       "answers": [
-        "1",
-        "2",
-        "3",
-        "4"
+        "",
+        "",
+        "",
+        ""
       ],
       "correctIndex": 0,
       "id": 7
-    },
-    {
-      "prompt": "Test",
-      "answers": [
-        "1",
-        "2",
-        "3",
-        "4"
-      ],
-      "correctIndex": 0,
-      "id": 8
-    },
-    {
-      "prompt": "q",
-      "answers": [
-        "1",
-        "3",
-        "4",
-        "5"
-      ],
-      "correctIndex": 0,
-      "id": 9
-    },
-    {
-      "prompt": "q",
-      "answers": [
-        "1",
-        "3",
-        "4",
-        "5"
-      ],
-      "correctIndex": 0,
-      "id": 10
     }
   ]
 }
